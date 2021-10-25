@@ -1,0 +1,117 @@
+[Wed Sep 15 11:07:55.585284 2021] [ssl:warn] [pid 3852:tid 528] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 11:07:56.010040 2021] [ssl:warn] [pid 3852:tid 528] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 11:07:57.216060 2021] [mpm_winnt:notice] [pid 3852:tid 528] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Wed Sep 15 11:07:57.216060 2021] [mpm_winnt:notice] [pid 3852:tid 528] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Wed Sep 15 11:07:57.216060 2021] [core:notice] [pid 3852:tid 528] AH00094: Command line: 'D:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Wed Sep 15 11:07:57.396064 2021] [mpm_winnt:notice] [pid 3852:tid 528] AH00418: Parent: Created child process 8712
+[Wed Sep 15 11:08:01.632704 2021] [ssl:warn] [pid 8712:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 11:08:01.782135 2021] [ssl:warn] [pid 8712:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 11:08:01.892073 2021] [mpm_winnt:notice] [pid 8712:tid 552] AH00354: Child: Starting 150 worker threads.
+[Wed Sep 15 11:16:03.701486 2021] [ssl:warn] [pid 12652:tid 636] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 11:16:03.889378 2021] [ssl:warn] [pid 12652:tid 636] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 11:16:04.797558 2021] [mpm_winnt:notice] [pid 12652:tid 636] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Wed Sep 15 11:16:04.798556 2021] [mpm_winnt:notice] [pid 12652:tid 636] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Wed Sep 15 11:16:04.798556 2021] [core:notice] [pid 12652:tid 636] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Wed Sep 15 11:16:04.821544 2021] [mpm_winnt:notice] [pid 12652:tid 636] AH00418: Parent: Created child process 12504
+[Wed Sep 15 11:16:06.766274 2021] [ssl:warn] [pid 12504:tid 796] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 11:16:06.885204 2021] [ssl:warn] [pid 12504:tid 796] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 11:16:06.948168 2021] [mpm_winnt:notice] [pid 12504:tid 796] AH00354: Child: Starting 150 worker threads.
+[Wed Sep 15 19:51:03.348109 2021] [ssl:warn] [pid 6368:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 19:51:03.601961 2021] [core:warn] [pid 6368:tid 564] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 15 19:51:03.649825 2021] [ssl:warn] [pid 6368:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 19:51:05.645461 2021] [mpm_winnt:notice] [pid 6368:tid 564] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Wed Sep 15 19:51:05.645461 2021] [mpm_winnt:notice] [pid 6368:tid 564] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Wed Sep 15 19:51:05.645461 2021] [core:notice] [pid 6368:tid 564] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Wed Sep 15 19:51:05.697434 2021] [mpm_winnt:notice] [pid 6368:tid 564] AH00418: Parent: Created child process 5444
+[Wed Sep 15 19:51:07.120442 2021] [ssl:warn] [pid 5444:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 19:51:07.200338 2021] [ssl:warn] [pid 5444:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 19:51:07.647871 2021] [mpm_winnt:notice] [pid 5444:tid 564] AH00354: Child: Starting 150 worker threads.
+[Wed Sep 15 21:36:35.656361 2021] [ssl:warn] [pid 3752:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 21:36:35.781593 2021] [core:warn] [pid 3752:tid 592] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 15 21:36:35.786594 2021] [ssl:warn] [pid 3752:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Wed Sep 15 21:36:35.851095 2021] [mpm_winnt:notice] [pid 3752:tid 592] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Wed Sep 15 21:36:35.851095 2021] [mpm_winnt:notice] [pid 3752:tid 592] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Wed Sep 15 21:36:35.851095 2021] [core:notice] [pid 3752:tid 592] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Wed Sep 15 21:36:35.855095 2021] [mpm_winnt:notice] [pid 3752:tid 592] AH00418: Parent: Created child process 3640
+[Wed Sep 15 21:36:36.326612 2021] [ssl:warn] [pid 3640:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 21:36:36.431837 2021] [ssl:warn] [pid 3640:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Wed Sep 15 21:36:36.466795 2021] [mpm_winnt:notice] [pid 3640:tid 440] AH00354: Child: Starting 150 worker threads.
+[Wed Sep 15 21:55:25.873982 2021] [ssl:warn] [pid 2212:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 21:55:25.986343 2021] [core:warn] [pid 2212:tid 596] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 15 21:55:25.990319 2021] [ssl:warn] [pid 2212:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Wed Sep 15 21:55:26.020304 2021] [mpm_winnt:notice] [pid 2212:tid 596] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Wed Sep 15 21:55:26.020304 2021] [mpm_winnt:notice] [pid 2212:tid 596] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Wed Sep 15 21:55:26.020304 2021] [core:notice] [pid 2212:tid 596] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Wed Sep 15 21:55:26.023304 2021] [mpm_winnt:notice] [pid 2212:tid 596] AH00418: Parent: Created child process 5448
+[Wed Sep 15 21:55:26.486443 2021] [ssl:warn] [pid 5448:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 15 21:55:26.552044 2021] [ssl:warn] [pid 5448:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Wed Sep 15 21:55:26.585027 2021] [mpm_winnt:notice] [pid 5448:tid 488] AH00354: Child: Starting 150 worker threads.
+[Thu Sep 16 11:14:24.318171 2021] [ssl:warn] [pid 2152:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 16 11:14:24.407449 2021] [core:warn] [pid 2152:tid 580] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Sep 16 11:14:24.419296 2021] [ssl:warn] [pid 2152:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Thu Sep 16 11:14:24.455274 2021] [mpm_winnt:notice] [pid 2152:tid 580] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Thu Sep 16 11:14:24.455274 2021] [mpm_winnt:notice] [pid 2152:tid 580] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Thu Sep 16 11:14:24.455274 2021] [core:notice] [pid 2152:tid 580] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Thu Sep 16 11:14:24.459275 2021] [mpm_winnt:notice] [pid 2152:tid 580] AH00418: Parent: Created child process 2680
+[Thu Sep 16 11:14:24.993317 2021] [ssl:warn] [pid 2680:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 16 11:14:25.062532 2021] [ssl:warn] [pid 2680:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Thu Sep 16 11:14:25.096536 2021] [mpm_winnt:notice] [pid 2680:tid 548] AH00354: Child: Starting 150 worker threads.
+[Thu Sep 16 21:38:37.808792 2021] [php:error] [pid 2680:tid 1864] [client ::1:59688] script 'D:/xampp/htdocs/modul2/bai-tap/tong-quan-ud-web-php/bt-ud-Product-Discount-Calculator/display_discount.php' not found or unable to stat, referer: http://localhost/modul2/bai-tap/tong-quan-ud-web-php/bt-ud-Product-Discount-Calculator/
+[Fri Sep 17 06:12:23.999966 2021] [ssl:warn] [pid 1804:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 17 06:12:24.155954 2021] [core:warn] [pid 1804:tid 560] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Sep 17 06:12:24.160958 2021] [ssl:warn] [pid 1804:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Fri Sep 17 06:12:24.400735 2021] [mpm_winnt:notice] [pid 1804:tid 560] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Fri Sep 17 06:12:24.400735 2021] [mpm_winnt:notice] [pid 1804:tid 560] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Fri Sep 17 06:12:24.400735 2021] [core:notice] [pid 1804:tid 560] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Fri Sep 17 06:12:24.403734 2021] [mpm_winnt:notice] [pid 1804:tid 560] AH00418: Parent: Created child process 12692
+[Fri Sep 17 06:12:24.922292 2021] [ssl:warn] [pid 12692:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 17 06:12:24.994414 2021] [ssl:warn] [pid 12692:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Fri Sep 17 06:12:25.030682 2021] [mpm_winnt:notice] [pid 12692:tid 584] AH00354: Child: Starting 150 worker threads.
+[Fri Sep 17 08:25:41.640056 2021] [php:error] [pid 12692:tid 1856] [client ::1:59683] script 'D:/xampp/htdocs/modul2/bai-tap/tong-quan-ud-web-php/calculator.php' not found or unable to stat
+[Fri Sep 17 08:27:40.417862 2021] [php:error] [pid 12692:tid 1856] [client ::1:65233] script 'D:/xampp/htdocs/modul2/bai-tap/tong-quan-ud-web-php/calculator.php' not found or unable to stat
+[Fri Sep 17 08:34:20.803959 2021] [php:error] [pid 12692:tid 1860] [client ::1:57815] script 'D:/xampp/htdocs/modul2/bai-tap/tong-quan-ud-web-php/bt-ud-Calculator/calculator.php' not found or unable to stat, referer: http://localhost/modul2/bai-tap/tong-quan-ud-web-php/bt-ud-Calculator/
+[Fri Sep 17 11:25:12.053485 2021] [php:error] [pid 12692:tid 1856] [client ::1:58359] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string / int in D:\\xampp\\htdocs\\modul2\\bai-tap\\tong-quan-ud-web-php\\[B\xc3\xa0i t\xe1\xba\xadp] \xe1\xbb\xa8ng d\xe1\xbb\xa5ng chuy\xe1\xbb\x83n \xc4\x91\xe1\xbb\x95i ti\xe1\xbb\x81n t\xe1\xbb\x87\\index.php:32\nStack trace:\n#0 {main}\n  thrown in D:\\xampp\\htdocs\\modul2\\bai-tap\\tong-quan-ud-web-php\\[B\xc3\xa0i t\xe1\xba\xadp] \xe1\xbb\xa8ng d\xe1\xbb\xa5ng chuy\xe1\xbb\x83n \xc4\x91\xe1\xbb\x95i ti\xe1\xbb\x81n t\xe1\xbb\x87\\index.php on line 32, referer: http://localhost/modul2/bai-tap/tong-quan-ud-web-php/%5bB%c3%a0i%20t%e1%ba%adp%5d%20%e1%bb%a8ng%20d%e1%bb%a5ng%20chuy%e1%bb%83n%20%c4%91%e1%bb%95i%20ti%e1%bb%81n%20t%e1%bb%87/
+[Sat Sep 18 11:03:23.246272 2021] [ssl:warn] [pid 4668:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 18 11:03:23.405182 2021] [core:warn] [pid 4668:tid 648] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Sep 18 11:03:23.426168 2021] [ssl:warn] [pid 4668:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Sat Sep 18 11:03:23.597584 2021] [mpm_winnt:notice] [pid 4668:tid 648] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Sat Sep 18 11:03:23.597584 2021] [mpm_winnt:notice] [pid 4668:tid 648] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Sat Sep 18 11:03:23.597584 2021] [core:notice] [pid 4668:tid 648] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Sat Sep 18 11:03:23.678536 2021] [mpm_winnt:notice] [pid 4668:tid 648] AH00418: Parent: Created child process 11224
+[Sat Sep 18 11:03:25.639506 2021] [ssl:warn] [pid 11224:tid 516] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 18 11:03:25.759437 2021] [ssl:warn] [pid 11224:tid 516] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Sat Sep 18 11:03:25.829399 2021] [mpm_winnt:notice] [pid 11224:tid 516] AH00354: Child: Starting 150 worker threads.
+[Sun Sep 19 14:22:51.022369 2021] [ssl:warn] [pid 5340:tid 156] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 19 14:22:51.146298 2021] [core:warn] [pid 5340:tid 156] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Sep 19 14:22:51.160290 2021] [ssl:warn] [pid 5340:tid 156] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Sun Sep 19 14:22:51.723171 2021] [mpm_winnt:notice] [pid 5340:tid 156] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Sun Sep 19 14:22:51.723171 2021] [mpm_winnt:notice] [pid 5340:tid 156] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Sun Sep 19 14:22:51.723171 2021] [core:notice] [pid 5340:tid 156] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Sun Sep 19 14:22:51.727167 2021] [mpm_winnt:notice] [pid 5340:tid 156] AH00418: Parent: Created child process 1420
+[Sun Sep 19 14:22:52.405856 2021] [ssl:warn] [pid 1420:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 19 14:22:52.475820 2021] [ssl:warn] [pid 1420:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Sun Sep 19 14:22:52.512794 2021] [mpm_winnt:notice] [pid 1420:tid 572] AH00354: Child: Starting 150 worker threads.
+[Mon Sep 20 07:47:28.107760 2021] [ssl:warn] [pid 9916:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 20 07:47:28.296393 2021] [core:warn] [pid 9916:tid 620] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 20 07:47:28.312760 2021] [ssl:warn] [pid 9916:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Mon Sep 20 07:47:28.929539 2021] [mpm_winnt:notice] [pid 9916:tid 620] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Mon Sep 20 07:47:28.929539 2021] [mpm_winnt:notice] [pid 9916:tid 620] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Mon Sep 20 07:47:28.929539 2021] [core:notice] [pid 9916:tid 620] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Sep 20 07:47:28.932537 2021] [mpm_winnt:notice] [pid 9916:tid 620] AH00418: Parent: Created child process 6992
+[Mon Sep 20 07:47:29.422393 2021] [ssl:warn] [pid 6992:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 20 07:47:29.492859 2021] [ssl:warn] [pid 6992:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: D:\\xampp\\php\\ext\\xdebug (The specified module could not be found), D:\\xampp\\php\\ext\\php_xdebug.dll (The specified module could not be found)) in Unknown on line 0
+[Mon Sep 20 07:47:29.527867 2021] [mpm_winnt:notice] [pid 6992:tid 468] AH00354: Child: Starting 150 worker threads.

@@ -1,0 +1,26 @@
+<?php
+include_once "Stack.php";
+$name = new Stack(10);
+$name->push("Trần Hán");
+echo "Tên thêm vào: ". $name->top() ."<br>";
+$name->push("Trần Hiệu");
+echo "Tên thêm vào: ". $name->top() ."<br>";
+$name->push("Trần Hòa");
+echo "Tên thêm vào: ". $name->top() ."<br>";
+$name->push("Trần Hợp");
+echo "Tên thêm vào: ". $name->top() ."<br>";
+$name->push("Trần Nhất");
+echo "Tên thêm vào: ". $name->top() ."<br>";
+echo "Tên đã lấy ra: ".$name->pop() . "<br>";
+echo "Tên đã lấy ra: ".$name->pop() . "<br>";
+echo "Tên đã lấy ra: ".$name->pop() . "<br>";
+$name->push("Đỗ Quyên Góp");
+echo "Tên thêm vào: ". $name->top() ."<br>";
+$name->push("Trần Nhất Ông");
+echo "Tên thêm vào: ". $name->top() ."<br>";
+echo $name->isEmpty() . "<br>";
+echo "Tên đã lấy ra: ".$name->pop() . "<br>";
+echo "Tên đã lấy ra: ".$name->pop() . "<br>";
+echo "Tên đã lấy ra: ".$name->pop() . "<br>";
+echo "Tên đã lấy ra: ".$name->pop() . "<br>";
+echo $name->isEmpty() . "<br>";
